@@ -1,0 +1,210 @@
+nav{
+    background-color: #ccc;
+    position: sticky;
+    width: 100%;
+    top: 0;
+}
+
+nav img {
+    width: 150px;
+    height: 150px;
+
+
+   
+}
+
+nav ul li{
+    display: inline;
+    padding: 50px;
+    font-size: 25px;
+    float: right;
+    font-weight: bold;
+    color:rgb(25, 25, 124);
+
+}
+
+#nav_bar{
+    display: flex;
+
+}
+
+.discount{
+
+    background-color: #f7f6fb;
+    width: 100%;
+    padding-top: 180px;
+    padding-bottom: 135px;
+}
+
+img.form_discount{
+    
+    display: flex;
+}
+
+.discount div {
+    background-color: rgb(27, 27, 110);
+    color: #fff;
+    height: 280px;
+    width: 280px;
+    font-size: 40px;
+    text-align: center;
+    margin-left: 60px;
+    padding-bottom: 10px;
+    justify-content: center;
+    align-items: center;
+    
+
+   
+}
+
+.discount img{
+  float: right;
+    padding-right:50px ;
+    width: 650px;
+}
+
+section h2{
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+div.section2 {
+    
+    display: flex;
+    justify-content: center;
+    background-color:rgb(17, 17, 72) ;
+  
+    
+
+}
+
+
+
+.section2 a{
+
+    text-decoration: none;
+    color:green;
+    
+}
+
+
+
+.section2 img{
+    width: 275px;
+    height: 200px;
+    padding: 25px;
+}
+
+.section2{
+    color: #fff;
+    align-items: center;
+}
+
+
+div.prodwi_yo{
+
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    flex-direction:row;
+    flex-wrap: wrap;
+
+    
+
+}
+
+
+
+.prodwi_yo img{
+    width: 275px;
+    height: 200px;
+    padding: 25px;
+}
+
+.section3{
+    background-color: rgb(17, 17, 72);
+    color: #fff;
+
+    align-items: center;
+}
+
+#prodwi1{
+    align-items: center;
+    padding-right: 15px;
+}
+
+.top_prodwi div{
+
+    display: flex;
+    align-items: center;
+    width: 100%;
+    
+}
+
+.top_prodwi h2{
+
+    /* padding-left: 250px; */
+}
+
+ul li{
+    display: inline;
+
+    
+
+}
+
+div.pied_page {
+    
+    display: flex;
+   background-color:rgb(27, 27, 110);
+   color: #fff;
+   padding: 20px;
+   justify-content: space-between;
+   flex-direction:row;
+   flex-wrap: wrap;
+  
+
+}
+
+
+
+#about{
+    padding-left: 40px;
+}
+
+
+/*  Section koleksyon rabe */
+
+.won{
+
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: auto;
+    
+
+
+}
+
+.won{
+
+}
+
+.collection h2{
+    text-align: center;
+    
+}
+
+
+
+.collection{
+    width: 100%;
+  align-items: center;
+    margin: auto;
+   
+}
+
+
+
